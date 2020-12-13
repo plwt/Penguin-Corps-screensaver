@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Penguin Corps
+Comment=Bubbles the Penguin Corps logo around the screen
+Exec=/usr/libexec/xfce4-screensaver/floaters /usr/share/pixmaps/PenguinCorps.png
+TryExec=/usr/libexec/xfce4-screensaver/floaters
+StartupNotify=false
+Terminal=false
+Type=Application
+Categories=Screensaver;
+OnlyShowIn=XFCE;
+Hidden=true
+Name[en_GB]=Penguin Corps
